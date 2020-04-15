@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ahmucs.github.io</id>
+    <title>安医大临院计算机社</title>
+    <updated>2020-04-15T05:23:09.717Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ahmucs.github.io"/>
+    <link rel="self" href="https://ahmucs.github.io/atom.xml"/>
+    <subtitle>安医大临床医学院计算机社</subtitle>
+    <logo>https://ahmucs.github.io/images/avatar.png</logo>
+    <icon>https://ahmucs.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 安医大临院计算机社</rights>
+    <entry>
+        <title type="html"><![CDATA[历次活动列表]]></title>
+        <id>https://ahmucs.github.io/post/huo-dong-lie-biao/</id>
+        <link href="https://ahmucs.github.io/post/huo-dong-lie-biao/">
+        </link>
+        <updated>2020-04-15T04:53:20.000Z</updated>
+        <content type="html"><![CDATA[<p>时2020年4月15日，共举办1次活动</p>
+<ul>
+<li>2019年11月24日 计算机知识讲座</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
