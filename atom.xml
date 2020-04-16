@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahmucs.github.io</id>
     <title>安医大临院计算机社</title>
-    <updated>2020-04-15T05:23:09.717Z</updated>
+    <updated>2020-04-16T10:43:07.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahmucs.github.io"/>
     <link rel="self" href="https://ahmucs.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://ahmucs.github.io/images/avatar.png</logo>
     <icon>https://ahmucs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 安医大临院计算机社</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年上半年计算机二级取消]]></title>
+        <id>https://ahmucs.github.io/post/2020-nian-shang-ban-nian-ji-suan-ji-er-ji-qu-xiao/</id>
+        <link href="https://ahmucs.github.io/post/2020-nian-shang-ban-nian-ji-suan-ji-er-ji-qu-xiao/">
+        </link>
+        <updated>2020-04-16T10:31:16.000Z</updated>
+        <content type="html"><![CDATA[<p>2020上半年的计算机二级考试虽然取消了，但多出来这么多的学习时间，不会的题再刷几遍，网课再看几遍，祝你们在下次的考试中取得好成绩！！！<br>
+<img src="https://ahmucs.github.io/post-images/1587033530314.png" alt="中国教育考试网截图" loading="lazy"><br>
+<strong>中国教育考试网</strong><a href="http://www.neea.edu.cn/html1/report/20042/724-1.htm">关于调整2020年上半年部分考试的公告</a></p>
+<p><strong>安徽共青团微信公众号</strong><a href="https://mp.weixin.qq.com/s?__biz=MjM5OTI5NzI2Mg==&amp;mid=2654185407&amp;idx=1&amp;sn=7f403bf7bc0c890554296888b819a845&amp;chksm=bcfaae3e8b8d2728dbb371a3120ab060fbea7087f3de920eb06ff730b624ce702fc6b5b01846&amp;mpshare=1&amp;scene=23&amp;srcid=&amp;sharer_sharetime=1587032682928&amp;sharer_shareid=615a251405010387453b5d5d5fbd24a2#rd">上半年这些考试取消：英语四六级口试、计算机等级…</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[历次活动列表]]></title>
         <id>https://ahmucs.github.io/post/huo-dong-lie-biao/</id>
